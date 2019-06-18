@@ -1,4 +1,4 @@
-# GradientCrescent Repo
+# GradientCrescent Master Repository
 Host directory for all repositories containing code from GradientCrescent. All tutorial links together with code can be found within each subdirectory.
 
 ## Table of Contents
