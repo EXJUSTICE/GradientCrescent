@@ -1,5 +1,10 @@
+<p align="center">
+  <img src="https://github.com/EXJUSTICE/GradientCrescent/blob/master/GCicon.jpeg" >
+</p>
+
+
 # GradientCrescent Master Repository
-Source directory for all projects from GradientCrescent. All tutorial links together with code can be found within each subdirectory.
+Source directory for all projects from GradientCrescent. All tutorial articles together with code can be found within each linked repository.
 
 ## Table of Contents
 
