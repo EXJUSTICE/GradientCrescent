@@ -4,7 +4,7 @@
 
 
 # GradientCrescent
-Source directory for all projects from GradientCrescent. All tutorial articles together with code can be found within each linked repository.
+Source directory for all projects on [https://medium.com/gradientcrescent](https://www.google.com). All tutorial articles together with code can be found within each linked repository.
 
 ## Table of Contents
 
