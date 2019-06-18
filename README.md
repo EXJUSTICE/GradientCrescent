@@ -1,5 +1,5 @@
 # GradientCrescent Master Repository
-Host directory for all repositories containing code from GradientCrescent. All tutorial links together with code can be found within each subdirectory.
+Source directory for all projects from GradientCrescent. All tutorial links together with code can be found within each subdirectory.
 
 ## Table of Contents
 
@@ -16,6 +16,7 @@ https://github.com/EXJUSTICE/StyleGAN-TrumpPortraits
 https://github.com/EXJUSTICE/RNN-Product-Classification-NDSC2019
 
 ### Urban Sound Classification using Convolutional Neural Networks with Keras: Theory and Implementation
+https://github.com/EXJUSTICE/Urban_Sound_Classification
 
 ### Generating extinct Japanese script with Adversarial Autoencoders: Theory and Implementation
 https://github.com/EXJUSTICE/KMNIST-GAN
