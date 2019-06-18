@@ -3,7 +3,7 @@
 </p>
 
 
-# GradientCrescent Master Repository
+# GradientCrescent
 Source directory for all projects from GradientCrescent. All tutorial articles together with code can be found within each linked repository.
 
 ## Table of Contents
