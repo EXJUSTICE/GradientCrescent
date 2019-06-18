@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/EXJUSTICE/GradientCrescent/blob/master/GCicon.jpeg" width="60" height="60">
+  <img src="https://github.com/EXJUSTICE/GradientCrescent/blob/master/GCicon.jpeg" width="100" height="100">
 </p>
 
 
