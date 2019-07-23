@@ -4,9 +4,12 @@
 
 
 # GradientCrescent
-Source directory for all projects on [GradientCrescent](https://medium.com/gradientcrescent). All tutorial articles together with code can be found within each linked repository.
+Source directory for all projects on [GradientCrescent](https://medium.com/gradientcrescent). All tutorial articles featuring code can be found within each linked repository.
 
 # Table of Contents
+
+### Into the Cageverse — Deepfaking with Autoencoders: An Implementation in Keras and Tensorflow
+https://github.com/EXJUSTICE/DeepFake_FaceSwap
 
 ### Foreseeing Armageddon: Could AI have Predicted the Financial Crisis? A Scenario Study using Recurrent Neural Networks
 https://github.com/EXJUSTICE/RNN-LSTM-Foreseeing_the_Financial_Crisis
