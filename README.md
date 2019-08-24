@@ -6,7 +6,7 @@
 # GradientCrescent
 Source directory for all projects on [GradientCrescent](https://medium.com/gradientcrescent). All tutorial articles featuring code can be found within each linked repository.
 
-# Table of Contents
+# List of Publications
 
 ### Seeing is Believing — Mesoscopic Neural Networks for Synthetic Image Detection: an Implementation in Keras and TensorFlow
 https://github.com/EXJUSTICE/StyleGAN_MesoscopicNeuralNetworks
