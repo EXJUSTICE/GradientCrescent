@@ -8,6 +8,9 @@ Source directory for all projects on [GradientCrescent](https://medium.com/gradi
 
 # Table of Contents
 
+### Seeing is Believing — Mesoscopic Neural Networks for Synthetic Image Detection: an Implementation in Keras and TensorFlow
+https://github.com/EXJUSTICE/StyleGAN_MesoscopicNeuralNetworks
+
 ### Into the Cageverse — Deepfaking with Autoencoders: An Implementation in Keras and Tensorflow
 https://github.com/EXJUSTICE/DeepFake_FaceSwap
 
