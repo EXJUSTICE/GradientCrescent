@@ -9,7 +9,7 @@ Source directory for all projects on [GradientCrescent](https://medium.com/gradi
 # List of Publications
 
 ### Capturing Beauty — Hybrid Incremental Learning for AI-powered Tinder profile swiping : An Implementation in Keras.
-https://github.com/EXJUSTICE/Tinder_Incremental_Learning/tree/master
+https://github.com/EXJUSTICE/Tinder_Incremental_Learning
 
 ### Seeing is Believing — Mesoscopic Neural Networks for Synthetic Image Detection: an Implementation in Keras and TensorFlow
 https://github.com/EXJUSTICE/StyleGAN_MesoscopicNeuralNetworks
