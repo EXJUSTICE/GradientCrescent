@@ -8,7 +8,7 @@ Source directory for all projects on [GradientCrescent](https://medium.com/gradi
 
 # List of Publications
 
-## Fundamentals of Reinforcement Learning: Automating Pong in using a Policy Model— an Implementation in Keras
+### Fundamentals of Reinforcement Learning: Automating Pong in using a Policy Model— an Implementation in Keras
 https://github.com/EXJUSTICE/Pong_OpenAI_Keras
 
 ### Capturing Beauty — Hybrid Incremental Learning for AI-powered Tinder profile swiping : An Implementation in Keras.
