@@ -7,6 +7,8 @@
 Source directory for all projects on [GradientCrescent](https://medium.com/gradientcrescent). All tutorial articles featuring code can be found within each linked repository.
 
 # List of Publications
+### Fundamentals of Reinforcement Learning: Understanding Blackjack Strategy through Monte Carlo Methods
+https://github.com/EXJUSTICE/MonteCarlo_Blackjack_Visualization
 
 ### Fundamentals of Reinforcement Learning: Automating Pong in using a Policy Model— an Implementation in Keras
 https://github.com/EXJUSTICE/Pong_OpenAI_Keras
