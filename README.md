@@ -7,6 +7,10 @@
 Source directory for all projects on [GradientCrescent](https://medium.com/gradientcrescent). All tutorial articles featuring code can be found within each linked repository.
 
 # List of Publications
+
+### Fundamentals of Reinforcement Learning: Automating Pac-man with Deep Q-learning: An Implementation in Tensorflow.
+https://github.com/EXJUSTICE/Deep_Q-learning_OpenAI_MissPacman
+
 ### Fundamentals of Reinforcement Learning: Understanding Blackjack Strategy through Monte Carlo Methods
 https://github.com/EXJUSTICE/MonteCarlo_Blackjack_Visualization
 
