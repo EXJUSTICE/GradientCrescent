@@ -8,6 +8,9 @@ Source directory for all projects on [GradientCrescent](https://medium.com/gradi
 
 # List of Publications
 
+### Optimized Deep Q-learning for Automated Atari Space Invaders: An Implementation in Tensorflow 2.0.
+https://github.com/EXJUSTICE/Optimized_DQN_OpenAI_SpaceInvaders
+
 ### Fundamentals of Reinforcement Learning: Automating Pac-man with Deep Q-learning: An Implementation in Tensorflow.
 https://github.com/EXJUSTICE/Deep_Q-learning_OpenAI_MissPacman
 
