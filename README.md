@@ -4,9 +4,13 @@
 
 
 # GradientCrescent
-Source directory for all projects on [GradientCrescent](https://medium.com/gradientcrescent). All tutorial articles featuring code can be found within each linked repository.
+Source directory for all projects on [GradientCrescent](https://medium.com/gradientcrescent) or on Towards Data Science. All tutorial articles featuring code can be found within each linked repository.
+
 
 # List of Publications
+
+## How to Win a Hackathon - Real-time Mobile Wildfire Detection in Tensorflow Lite.
+https://github.com/EXJUSTICE/Sammuta
 
 ### Optimized Deep Q-learning for Automated Atari Space Invaders: An Implementation in Tensorflow 2.0.
 https://github.com/EXJUSTICE/Optimized_DQN_OpenAI_SpaceInvaders
