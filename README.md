@@ -9,13 +9,13 @@ Source directory for all projects on [GradientCrescent](https://medium.com/gradi
 
 # List of Publications
 
-## Automating Doom with Deep Q-Learning: An Implementation in Tensorflow.
+### Automating Doom with Deep Q-Learning: An Implementation in Tensorflow.
 https://github.com/EXJUSTICE/Doom_DQN_GC
 
-## Detecting COVID-19 induced Pneumonia from Chest X-rays with Transfer Learning: An implementation in Tensorflow and Keras.
+### Detecting COVID-19 induced Pneumonia from Chest X-rays with Transfer Learning: An implementation in Tensorflow and Keras.
 https://github.com/EXJUSTICE/COVID19_Detection_Transfer_Learning_VGG16
 
-## How to Win a Hackathon - Real-time Mobile Wildfire Detection in Tensorflow Lite.
+### How to Win a Hackathon - Real-time Mobile Wildfire Detection in Tensorflow Lite.
 https://github.com/EXJUSTICE/Sammuta
 
 ### Optimized Deep Q-learning for Automated Atari Space Invaders: An Implementation in Tensorflow 2.0.
