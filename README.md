@@ -4,7 +4,7 @@
 
 
 # GradientCrescent
-Source directory for all projects on [GradientCrescent](https://medium.com/gradientcrescent) or on Towards Data Science. All tutorial articles featuring code can be found within each linked repository.
+Source directory for all projects on [GradientCrescent](https://medium.com/gradientcrescent) or on Towards Data Science. All tutorial articles featuring code can be found within each linked repository.If you like a repository, please show your appreciate with a star for both this master repo and the target repo!
 
 
 # List of Publications
