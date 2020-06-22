@@ -8,6 +8,8 @@ Source directory for all projects on [GradientCrescent](https://medium.com/gradi
 
 
 # List of Publications
+### Generating Fake News with OpenAI’s Language Models
+https://github.com/EXJUSTICE/gpt-2
 
 ### Automating Doom with Deep Q-Learning: An Implementation in Tensorflow.
 https://github.com/EXJUSTICE/Doom_DQN_GC
