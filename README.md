@@ -8,6 +8,9 @@ Source directory for all projects on [GradientCrescent](https://medium.com/gradi
 
 
 # List of Publications
+### Playing Doom with AI: Multi-objective optimization with Deep Q-learning
+https://github.com/EXJUSTICE/Doom_DQN_GC
+
 ### Generating Fake News with OpenAI’s Language Models
 https://github.com/EXJUSTICE/gpt-2
 
