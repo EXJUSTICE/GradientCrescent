@@ -8,6 +8,10 @@ Source directory for all projects on [GradientCrescent](https://medium.com/gradi
 
 
 # List of Publications
+
+### Building Improved AI agents for Doom using Double Deep Q-learning
+https://github.com/EXJUSTICE/Doom_DQN_GC
+
 ### Playing Doom with AI: Multi-objective optimization with Deep Q-learning
 https://github.com/EXJUSTICE/Doom_DQN_GC
 
