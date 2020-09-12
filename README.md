@@ -8,6 +8,8 @@ Source directory for all projects on [GradientCrescent](https://medium.com/gradi
 
 
 # List of Publications
+### Building Offensive AI Agents for Doom using Dueling Deep Q-learning.
+https://github.com/EXJUSTICE/Doom_DQN_GC
 
 ### Building Improved AI agents for Doom using Double Deep Q-learning
 https://github.com/EXJUSTICE/Doom_DQN_GC
